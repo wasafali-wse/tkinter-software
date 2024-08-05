@@ -1,0 +1,10 @@
+{
+    "database" : {
+        "host" : "localhost",
+        "user" : "root",
+        "database" : "wasaf",
+        "password" : "",
+        "soc_port" : "1255"
+    }
+    
+}
